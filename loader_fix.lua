@@ -89,11 +89,11 @@ local function login()
             "ℹ️ Version 3.0\n" ..
             "⏰ Date" .. os.date("%d/%m/%Y") .. "\n" ..
             "🕹️ Available Script: "..totalGame.." Games\n" ..
-            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
+            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
             "Welcome ♥️ \n" ..
             "Please enter your access key to continue\n" ..
             "Get access key in Telegram @DraboyGaming\n\n" ..
-            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
         )
 
 
@@ -167,7 +167,7 @@ end
 local function showNews()
     gg.alert(
         NEWS_CONFIG.TITLE..
-        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
+        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
         NEWS_CONFIG.MESSAGE
     )
 end
@@ -194,9 +194,9 @@ local function showGameInfo(game)
 
   
 
-    local infoText = game.NEWS.TITLE.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+    local infoText = game.NEWS.TITLE.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     for _, page in ipairs(game.NEWS.PAGES) do
-        infoText = infoText .. page.title .. "\n" .. page.content .. "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+        infoText = infoText .. page.title .. "\n" .. page.content .. "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     end
 
     gg.alert(infoText)
@@ -213,10 +213,10 @@ local function menuTitle(expandUser)
        
 
     if expandUser then
-        header = header.. "👤 User: "..CURRENT.name.."\nℹ️ Status: "..CURRENT.type.."\n⏳ Expire: "..CURRENT.expire.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+        header = header.. "👤 User: "..CURRENT.name.."\nℹ️ Status: "..CURRENT.type.."\n⏳ Expire: "..CURRENT.expire.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     end
 
-    header = header.."🕹️ Available Script Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+    header = header.."🕹️ Available Script Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
 
     return header
 end
