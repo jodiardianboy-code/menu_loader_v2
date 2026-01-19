@@ -167,7 +167,7 @@ end
 local function showNews()
     gg.alert(
         NEWS_CONFIG.TITLE..
-        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
+        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
         NEWS_CONFIG.MESSAGE
     )
 end
