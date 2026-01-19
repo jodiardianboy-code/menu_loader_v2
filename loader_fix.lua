@@ -77,16 +77,26 @@ end
 --------------------------------------------------
 local function login()
     while true do
+
+        -- fungsi menampilkan total game
+        local totalGame = 0
+        if GAME_CONFIG and GAME_CONFIG.GAMES then
+            totalGame = #GAME_CONFIG.GAMES
+        end
+
         gg.alert(
             "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩\n" ..
             "ℹ️ Version 3.0\n" ..
             "⏰ Date" .. os.date("%d/%m/%Y") .. "\n" ..
+            "🕹️ Available Script: "..totalGame.." Games\n" ..
             "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
-            "Welcome 🤝 \n" ..
+            "Welcome ♥️ \n" ..
             "Please enter your access key to continue\n" ..
             "Get access key in Telegram @DraboyGaming\n\n" ..
             "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
         )
+
+
 
         local p = gg.prompt({"🔐 Enter Access Key"}, {""}, {"text"})
         if not p then return false end
@@ -144,7 +154,7 @@ local function showLoginInfo()
     LOGIN_SHOWN = true
 
     gg.alert(
-        "✅ LOGIN SUCCESS\n\n"..
+        "⭐ LOGIN SUCCESS ⭐\n\n"..
         "👤 User   : "..CURRENT.name.."\n"..
         "ℹ️ Status : "..CURRENT.type.."\n"..
         "📝 Expire : "..CURRENT.expire
@@ -199,14 +209,14 @@ local function menuTitle(expandUser)
     local header =
         "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩\n" ..
         "ℹ️ Version 3.0\n" ..
-        "⏰ Date: "..os.date("%d/%m/%Y").."\n" ..
-        "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+        "⏰ Date: "..os.date("%d/%m/%Y").."\n"
+       
 
     if expandUser then
         header = header.. "👤 User: "..CURRENT.name.."\nℹ️ Status: "..CURRENT.type.."\n⏳ Expire: "..CURRENT.expire.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     end
 
-    header = header.."🕹️ Total Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+    header = header.."🕹️ Available Script Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
 
     return header
 end
