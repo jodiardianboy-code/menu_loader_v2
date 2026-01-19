@@ -4999,10 +4999,10 @@ local function show_welcome()
  ✨ DRABOY GRIM SOUL TOOLS V3 
  📅 Version: 7.9.0 (64-bit)
  🛠️ Release: 19 Januari 2026
- ───────────────────────────────
+ ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
  📝 UPDATE LOG:
- ───────────────────────────────
+ ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
  🔸 💫 Replacement Item
  🔸 ⭐ Improve Ui
  🔸 ⭐ Small Fix
