@@ -1,19 +1,19 @@
 {
     
    
-    TITLE = "🔥 DRABOY NEWS 🔥",
+    TITLE = "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩",
     MESSAGE = [[
-Welcome to Draboy Cloud Loader
+   
     
-📢  CHANGELOG / UPDATE:
-    
-   🚇 Metro 2050 Survival
+    📢  CHANGELOG / UPDATE:
+    ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+    🚇 Metro 2050 Survival
         • 🔥 Fix something
         • 🔥 Add New Mod Unlimited Gold
+    ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
     
-
-
-Follow @DraboyGaming
+    Follow Ytb @DraboyGaming
+    Group Telegram @DraboyGaming
     ]],
-    LAST_UPDATE = "12-01-2026"
+    LAST_UPDATE = "19-01-2026"
 }
