@@ -39,16 +39,40 @@
         {
             name = "🧟 Last Day on Earth: Survival",
             version = "1.43.0",
-            link = "https://raw.githubusercontent.com/jodiardianboy-code/Menu_Loader/refs/heads/main/ldoe.lua",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/ldoe",
             NEWS = {
                 TITLE = "LDOE Features",
                 PAGES = {
                     {
                         title = "Main Features",
                         content = [[
-• Free Crafting
-• Max Durability
-• Auto Loot
+📝 UPDATE LOG:
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+🔥 Replacement Item
+🐶 Dog skill hack
+
+List Mod Hack
+👑 Premium BATTLEPASS
+👑 Premium SURVIVOR PATH
+🛠️ Free Craft
+🏗️ Free Build
+🔨 Fast Workbench
+✂️ Split Weapon
+🎒 No Decrease Item Backpack
+⚡ Max Durability
+🎁 Gacha No Decrease In Inbox
+🎁 Infinite Item Inbox   
+👕 Unlock All Skins Not Permanent
+🏍 Unlock All Bike Skins Not Permanent
+⚡ No Skill Cooldown
+🆓 Travel Energy
+🚽 No Defecate
+    
+Note : Mod Feature Unstable in Emulator PC
+
+
+
+                        
 ]]
                     }
                 }
@@ -64,9 +88,8 @@
                     {
                         title = "Main Features",
                         content = [[
-• Unlimited Energy
-• Instant Kill
-• Free Build
+• no update
+
 ]]
                     }
                 }
@@ -82,9 +105,8 @@
                     {
                         title = "Main Features",
                         content = [[
-• Max Resources
-• Instant Kill
-• Unlimited Skills
+• no update
+
 ]]
                     }
                 }
@@ -92,6 +114,7 @@
         }
     }
 }
+
 
 
 
