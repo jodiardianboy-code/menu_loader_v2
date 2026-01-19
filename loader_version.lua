@@ -1,3 +1,2 @@
-{
-LOADER_VERSION = "3.0"
-}
+-- loader_version.lua
+{ LOADER_VERSION = "3.1" }
