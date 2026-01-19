@@ -167,7 +167,7 @@ end
 local function showNews()
     gg.alert(
         NEWS_CONFIG.TITLE..
-        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
+        "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
         NEWS_CONFIG.MESSAGE
     )
 end
@@ -239,7 +239,7 @@ local function menu()
     for _,v in ipairs(GAME_CONFIG.GAMES) do
         list[#list+1] = v.name.." [v"..v.version.."]"
     end
-    list[#list+1] = "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+    list[#list+1] = "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
     list[#list+1] = "🔄 Refresh Server"
     list[#list+1] = "📢 News"
     list[#list+1] = "❌ Exit"
