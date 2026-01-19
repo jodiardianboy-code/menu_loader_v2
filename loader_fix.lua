@@ -87,7 +87,7 @@ local function login()
         gg.alert(
             "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩\n" ..
             "ℹ️ Version 3.0\n" ..
-            "⏰ Date" .. os.date("%d/%m/%Y") .. "\n" ..
+            "⏰ Date " .. os.date("%d/%m/%Y") .. "\n" ..
             "🕹️ Available Script: "..totalGame.." Games\n" ..
             "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
             "Welcome ♥️ \n" ..
