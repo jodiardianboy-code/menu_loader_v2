@@ -3,7 +3,8 @@
         {
             name = "🎃 Grim Soul: Dark Fantasy",
             version = "7.9.0",
-            link = "https://raw.githubusercontent.com/jodiardianboy-code/Menu_Loader/refs/heads/main/grimsoul.lua",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/grimsoul.lua",
+            
             NEWS = {
                 TITLE = "Grim Soul Features",
                 PAGES = {
@@ -90,5 +91,6 @@
         }
     }
 }
+
 
 
