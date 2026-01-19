@@ -10,19 +10,27 @@
                     {
                         title = "Main Features",
                         content = [[
-• Unlimited Gold
-• Instant Kill
-• No Durability Loss
+📝 UPDATE LOG:
+ ───────────────────────────────
+ 🔸 💫 Replacement Item
+ 🔸 ⭐ Improve Ui
+ 🔸 ⭐ Small Fix
+
+ List Mod Hack
+ 🔸 ☠️ Instant Kill
+ 🔸 ⚡️ Zero Energy Travel
+ 🔸 🌀 Unlimited Skill use
+ 🔸 ✂️ Duplicate Item
+ 🔸 ✂️ Split Weapon
+ 🔸 🔒 Lock Durability
+ 🔸 🛠️ Free Craft 
+ 🔸 🚀 Fast Crafting
+ 🔸 🔨 Free Assemble
+
+ Note : Some Mod hack Not work in emulator
 ]]
                     },
-                    {
-                        title = "Upcoming Features",
-                        content = [[
-• New Event Boss
-• Improved Crafting
-• Seasonal Rewards
-]]
-                    }
+                   
                 }
             }
         },
@@ -82,4 +90,5 @@
         }
     }
 }
+
 
