@@ -82,7 +82,7 @@ Note : Mod Feature Unstable in Emulator PC
         {
             name = "🚇 Metro 2050 Survival",
             version = "0.0.365",
-            link = "https://raw.githubusercontent.com/jodiardianboy-code/Menu_Loader/refs/heads/main/metrov2.lua",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/metrov2.lua",
             NEWS = {
                 TITLE = "Metro 2050 Features",
                 PAGES = {
@@ -120,7 +120,7 @@ Note : Mod Feature Unstable in Emulator PC
         {
             name = "👹 Dead God Land",
             version = "0.0.0349",
-            link = "https://raw.githubusercontent.com/jodiardianboy-code/Menu_Loader/refs/heads/main/deadgodland.lua",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/deadgodland.lua",
             NEWS = {
                 TITLE = "Dead God Land Features",
                 PAGES = {
@@ -152,6 +152,7 @@ Note : Some Mod hack Not work in emulator
         }
     }
 }
+
 
 
 
