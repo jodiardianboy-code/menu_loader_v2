@@ -1,7 +1,7 @@
 {
     
    
-    TITLE = "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩",
+    TITLE = "🎮 Script DRABOYGAMING™ 🇮🇩",
     MESSAGE = [[
     
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
