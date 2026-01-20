@@ -235,7 +235,7 @@ local function menu()
 
     local list = {}
     list[#list+1] = "👤 User Info"
-    list[#list+1] = "🎮 Available Games"
+    list[#list+1] = "⬇️⬇️ 🎮 Available Games ⬇️⬇️"
     for _,v in ipairs(GAME_CONFIG.GAMES) do
         list[#list+1] = v.name.." [v"..v.version.."]"
     end
