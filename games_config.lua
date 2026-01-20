@@ -14,20 +14,20 @@
 
 📝 UPDATE LOG:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
- 🔸 💫 Replacement Item
- 🔸 ⭐ Improve Ui
- 🔸 ⭐ Small Fix
+💫 Replacement Item
+⭐ Improve Ui
+⭐ Small Fix
 
- List Mod Hack
- 🔸 ☠️ Instant Kill
- 🔸 ⚡️ Zero Energy Travel
- 🔸 🌀 Unlimited Skill use
- 🔸 ✂️ Duplicate Item
- 🔸 ✂️ Split Weapon
- 🔸 🔒 Lock Durability
- 🔸 🛠️ Free Craft 
- 🔸 🚀 Fast Crafting
- 🔸 🔨 Free Assemble
+List Mod Hack
+☠️ Instant Kill
+⚡️ Zero Energy Travel
+🌀 Unlimited Skill use
+✂️ Duplicate Item
+✂️ Split Weapon
+🔒 Lock Durability
+🛠️ Free Craft 
+🚀 Fast Crafting
+🔨 Free Assemble
 
  Note : Some Mod hack Not work in emulator
 ]]
@@ -48,7 +48,7 @@
                         content = [[
 📝 UPDATE LOG:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-🔥 Replacement Item
+💫 Replacement Item
 🐶 Dog skill hack
 
 List Mod Hack
@@ -88,7 +88,27 @@ Note : Mod Feature Unstable in Emulator PC
                     {
                         title = "Main Features",
                         content = [[
-• no update
+📝 UPDATE LOG:
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+💫 Replacement Item inbox
+✏️ Edit Quantity item Backpack
+💰 Edit All Coin
+⛽ Gasoline Hack
+                                         
+List Mod Hack
+🛡️ God Mode
+🍖 No Starving & Thirsty
+🌟 Max Level
+⚔️ Infinite Durability Weapon                      
+👕 Infinite Durability Armor
+🛠️ Free Crafting
+🏗️ Free Build Base
+⬆️ Free Upgrade Base
+🖼️ Claim Gift Collection
+💰 Unlimited Mall Coin
+
+    
+Note : Mod Feature Unstable in Emulator PC
 
 ]]
                     }
@@ -105,7 +125,20 @@ Note : Mod Feature Unstable in Emulator PC
                     {
                         title = "Main Features",
                         content = [[
-• no update
+📝 UPDATE LOG:
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+💫 Replacement Item inbox
+✏️ Edit Quantity item Backpack
+                                         
+List Mod Hack
+🛡️ God Mode
+🍖 No Starving & Thirsty
+⚔️ Infinite Durability Weapon                      
+👕 Infinite Durability Armor
+🛠️ Free Crafting
+🏗️ Free Build Base
+⬆️ Free Upgrade Base
+💰 Unlimited Coin
 
 ]]
                     }
@@ -114,6 +147,7 @@ Note : Mod Feature Unstable in Emulator PC
         }
     }
 }
+
 
 
 
