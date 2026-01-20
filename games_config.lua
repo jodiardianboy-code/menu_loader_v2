@@ -29,7 +29,7 @@ List Mod Hack
 🚀 Fast Crafting
 🔨 Free Assemble
 
- Note : Some Mod hack Not work in emulator
+Note : Some Mod hack Not work in emulator
 ]]
                     },
                    
@@ -143,6 +143,8 @@ List Mod Hack
 ⬆️ Free Upgrade Base
 💰 Unlimited Coin
 
+Note : Some Mod hack Not work in emulator
+
 ]]
                     }
                 }
@@ -150,6 +152,7 @@ List Mod Hack
         }
     }
 }
+
 
 
 
