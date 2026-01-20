@@ -46,6 +46,7 @@ List Mod Hack
                     {
                         title = "Main Features",
                         content = [[
+                        
 📝 UPDATE LOG:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item
@@ -88,6 +89,7 @@ Note : Mod Feature Unstable in Emulator PC
                     {
                         title = "Main Features",
                         content = [[
+                        
 📝 UPDATE LOG:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item inbox
@@ -125,6 +127,7 @@ Note : Mod Feature Unstable in Emulator PC
                     {
                         title = "Main Features",
                         content = [[
+                        
 📝 UPDATE LOG:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item inbox
@@ -147,6 +150,7 @@ List Mod Hack
         }
     }
 }
+
 
 
 
