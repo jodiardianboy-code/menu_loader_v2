@@ -85,15 +85,15 @@ local function login()
         end
 
         gg.alert(
-            "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩\n" ..
+            "🎮 Script DRABOYGAMING™ 🇮🇩\n" ..
             "ℹ️ Version 3.0\n" ..
-            "⏰ Date " .. os.date("%d/%m/%Y") .. "\n" ..
+            "⏰ Date" .. os.date("%d/%m/%Y") .. "\n" ..
             "🕹️ Available Script: "..totalGame.." Games\n" ..
-            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
+            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n\n" ..
             "Welcome ♥️ \n" ..
             "Please enter your access key to continue\n" ..
             "Get access key in Telegram @DraboyGaming\n\n" ..
-            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+            "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
         )
 
 
@@ -194,9 +194,9 @@ local function showGameInfo(game)
 
   
 
-    local infoText = game.NEWS.TITLE.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+    local infoText = game.NEWS.TITLE.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     for _, page in ipairs(game.NEWS.PAGES) do
-        infoText = infoText .. page.title .. "\n" .. page.content .. "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+        infoText = infoText .. page.title .. "\n" .. page.content .. "\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     end
 
     gg.alert(infoText)
@@ -207,16 +207,16 @@ end
 --------------------------------------------------
 local function menuTitle(expandUser)
     local header =
-        "🎮 Script MultiGame DRABOYGAMING™ 🇮🇩\n" ..
+        "🎮 Script DRABOYGAMING™ 🇮🇩\n" ..
         "ℹ️ Version 3.0\n" ..
         "⏰ Date: "..os.date("%d/%m/%Y").."\n"
        
 
     if expandUser then
-        header = header.. "👤 User: "..CURRENT.name.."\nℹ️ Status: "..CURRENT.type.."\n⏳ Expire: "..CURRENT.expire.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
+        header = header.. "👤 User: "..CURRENT.name.."\nℹ️ Status: "..CURRENT.type.."\n⏳ Expire: "..CURRENT.expire.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"
     end
 
-    header = header.."🕹️ Available Script Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+    header = header.."🕹️ Available Script Games: "..#GAME_CONFIG.GAMES.."\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
 
     return header
 end
@@ -239,7 +239,7 @@ local function menu()
     for _,v in ipairs(GAME_CONFIG.GAMES) do
         list[#list+1] = v.name.." [v"..v.version.."]"
     end
-    list[#list+1] = "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
+    list[#list+1] = "⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘"
     list[#list+1] = "🔄 Refresh Server"
     list[#list+1] = "📢 News"
     list[#list+1] = "❌ Exit"
@@ -266,7 +266,7 @@ local function menu()
     elseif c == 1 then
         -- User Info
         gg.alert(
-            "🌟 User Info\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
+            "🌟 User Info\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n"..
             "👤 User   : "..CURRENT.name.."\n"..
             "ℹ️ Status : "..CURRENT.type.."\n"..
             "📝 Expire : "..CURRENT.expire
@@ -278,7 +278,7 @@ local function menu()
             "ℹ️ View Features & Mods",
             "🕹️ Launch Script",
             "🔙 Back to Menu"
-        }, nil, "🎮 "..game.name.." [v"..game.version.."]\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘")
+        }, nil, "🎮 "..game.name.." [v"..game.version.."]\n⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘")
         if infoChoice == 1 then
             showGameInfo(game)
             menu()
