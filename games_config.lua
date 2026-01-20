@@ -13,7 +13,7 @@
                         content = [[
 
 📝 UPDATE LOG:
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item
 ⭐ Improve Ui
 ⭐ Small Fix
@@ -48,7 +48,7 @@ List Mod Hack
                         content = [[
                         
 📝 UPDATE LOG:
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item
 🐶 Dog skill hack
 
@@ -91,7 +91,7 @@ Note : Mod Feature Unstable in Emulator PC
                         content = [[
                         
 📝 UPDATE LOG:
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item inbox
 ✏️ Edit Quantity item Backpack
 💰 Edit All Coin
@@ -129,7 +129,7 @@ Note : Mod Feature Unstable in Emulator PC
                         content = [[
                         
 📝 UPDATE LOG:
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 💫 Replacement Item inbox
 ✏️ Edit Quantity item Backpack
                                          
@@ -150,6 +150,7 @@ List Mod Hack
         }
     }
 }
+
 
 
 
