@@ -118,7 +118,7 @@ Note : Mod Feature Unstable in Emulator PC
             }
         },
         {
-            name = "👹 Dead God Land [Tested]",
+            name = "👹 Dead God Land",
             version = "0.0.0349",
             link = "https://raw.githubusercontent.com/jodiardianboy-code/Menu_Loader/refs/heads/main/deadgodland.lua",
             NEWS = {
@@ -150,6 +150,7 @@ List Mod Hack
         }
     }
 }
+
 
 
 
