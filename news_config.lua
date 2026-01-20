@@ -1,8 +1,8 @@
 {
     
    
-    TITLE = "🎮 Script DRABOYGAMING™ 🇮🇩",
-    MESSAGE = [[
+TITLE = "🎮 Script DRABOYGAMING™ 🇮🇩",
+MESSAGE = [[
     
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 📢  CHANGELOG / UPDATE:
