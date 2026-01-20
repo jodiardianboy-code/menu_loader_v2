@@ -39,7 +39,7 @@ Note : Some Mod hack Not work in emulator
         {
             name = "🧟 Last Day on Earth: Survival",
             version = "1.43.0",
-            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/ldoe",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/ldoe.lua",
             NEWS = {
                 TITLE = "LDOE Features",
                 PAGES = {
@@ -152,6 +152,7 @@ Note : Some Mod hack Not work in emulator
         }
     }
 }
+
 
 
 
