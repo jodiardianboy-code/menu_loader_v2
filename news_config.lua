@@ -10,6 +10,7 @@ MESSAGE = [[
 
 Sorry guys i need some break
 life shit happens 🙏
+i will focus on my real life first
 I won't be updating for a while
 so this my final work
 Thanks for supporting me, especially to 
