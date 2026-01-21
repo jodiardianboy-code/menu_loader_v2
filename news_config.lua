@@ -8,9 +8,15 @@ MESSAGE = [[
 📢  CHANGELOG / UPDATE:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
-small fix
+Sorry guys i need some break
+life shit happens 🙏
+I won't be updating for a while
+so this my final work
+Thanks for supporting me, especially to 
+the members who joined my Telegram group. 
+It means a lot. ♥️
 
-    
+By Draboy
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
     
 ♥️ Follow Ytb @DraboyGaming
