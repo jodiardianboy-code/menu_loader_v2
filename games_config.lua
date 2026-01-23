@@ -149,9 +149,50 @@ Note : Some Mod hack Not work in emulator
                     }
                 }
             }
-        }
+        },
+                {
+            name = "🦖 Jurassic Survival",
+            version = "2.7.8",
+            link = "https://raw.githubusercontent.com/jodiardianboy-code/menu_loader_v2/refs/heads/main/list_game/jurrasic.lua",
+            NEWS = {
+                TITLE = "Jurassic Survival Features",
+                PAGES = {
+                    {
+                        title = "Main Features",
+                        content = [[
+                        
+📝 UPDATE LOG:
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⚠️ Don't use you real account !!
+Still Beta Tested
+But you can try playaround
+
+List Features :
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+💫 Replacement Item backpack
+💫 Replacement Item inbox
+🎁 Infinite Item Inbox
+👑 Premium BATTLEPASS
+✂️ Split Weapon
+🎒 No Decrease Item Backpack
+⚡ Max Durability
+    
+Note : Mod Feature Unstable in Emulator PC
+      
+]]
+                    }
+                }
+            }
+        },
+
+
+
+
+
+        
     }
 }
+
 
 
 
