@@ -8,11 +8,9 @@ MESSAGE = [[
 📢  CHANGELOG / UPDATE:
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
-Sorry guys i need some break
-life shit happens 🙏
-i will focus on my real life first
-I won't be updating for a while
-so this my final work
+
+life shit happens, but life goes on ( ◡̀_◡́)ᕤ
+
 Thanks for supporting me, especially to 
 the members who joined my Telegram group. 
 It means a lot. ♥️
@@ -24,5 +22,5 @@ By Draboy
 ♥️ Group Telegram @DraboyGaming
     
     ]],
-LAST_UPDATE = "19-01-2026"
+LAST_UPDATE = "23-01-2026"
 }
